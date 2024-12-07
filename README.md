@@ -11,7 +11,7 @@ GUIDE for Call of Duty: Black ops Multiplayer & Zombies local split screen on PC
 
 ● Microsoft Visual C++ 2015-2019 Redistributable (both x86 and x64) [link](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
-**Screenshot**
+**Screenshot:**
 
 >Multiplayer 
 
