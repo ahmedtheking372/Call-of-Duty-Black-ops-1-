@@ -17,19 +17,19 @@
 
 ![Alt image](https://github.com/ahmedtheking372/Call-of-Duty-Black-ops-1-/blob/main/Screenshots/1.jpg)
 
-![Alt image]()
+![Alt image](https://github.com/ahmedtheking372/Call-of-Duty-Black-ops-1-/blob/main/Screenshots/2.jpg)
 
-![Alt image]()
+![Alt image](https://github.com/ahmedtheking372/Call-of-Duty-Black-ops-1-/blob/main/Screenshots/3.jpg)
 
-![Alt image]()
+![Alt image](https://github.com/ahmedtheking372/Call-of-Duty-Black-ops-1-/blob/main/Screenshots/4.jpg)
 
-![Alt image]()
+![Alt image](https://github.com/ahmedtheking372/Call-of-Duty-Black-ops-1-/blob/main/Screenshots/5.jpg)
 
-![Alt image]()
+![Alt image](https://github.com/ahmedtheking372/Call-of-Duty-Black-ops-1-/blob/main/Screenshots/6.jpg)
 
-![Alt image]()
+![Alt image](https://github.com/ahmedtheking372/Call-of-Duty-Black-ops-1-/blob/main/Screenshots/7.jpg)
 
-![Alt image]()
+![Alt image](https://github.com/ahmedtheking372/Call-of-Duty-Black-ops-1-/blob/main/Screenshots/8.jpg)
 
 >Zombies
 
