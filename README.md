@@ -13,7 +13,7 @@ GUIDE for Call of Duty: Black ops Multiplayer & Zombies local split screen on PC
 
 **Screenshot:**
 
-![alt text](![Uploading 17335660030951913716488103526765.jpg…])
+![alt text](https://drive.google.com/file/d/1_RaXkfxLxrOZu3zT0CUx8vBh2YS29YDH/view?usp=drivesdk)
 
 
 
