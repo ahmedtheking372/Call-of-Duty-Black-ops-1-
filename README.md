@@ -15,13 +15,13 @@
 
 >Multiplayer 
 
-![Alt image](https://github.com/ahmedtheking372/Call-of-Duty-Black-ops-1-/blob/main/Image1.jpg)
+![Alt image]()
 
-![Alt image](Image3.png)
+![Alt image]()
 
-![Alt image](Image2.png)
+![Alt image]()
 
-![Alt image](Image4.png)
+![Alt image]()
 
 ![Alt image](Image5.png)
 
