@@ -33,4 +33,20 @@
 
 >Zombies
 
-![Alt image]()
+![Alt image](https://github.com/ahmedtheking372/Call-of-Duty-Black-ops-1-/blob/main/Screenshots/9.jpg)
+
+![Alt image](https://github.com/ahmedtheking372/Call-of-Duty-Black-ops-1-/blob/main/Screenshots/10.jpg)
+
+![Alt image](https://github.com/ahmedtheking372/Call-of-Duty-Black-ops-1-/blob/main/Screenshots/8.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
