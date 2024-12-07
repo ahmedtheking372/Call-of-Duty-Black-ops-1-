@@ -32,3 +32,7 @@ GUIDE for Call of Duty Black ops Multiplayer & Zombies local split screen on PC 
 ![Alt image](Image7.png)
 
 ![Alt image](Image8.png)
+
+>Zombies
+
+![Alt image](Image9.png)
