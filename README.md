@@ -1,4 +1,4 @@
-# Call of Duty: Black ops 1 
+Call of Duty: Black ops 1 
 GUIDE for Call of Duty: Black ops Multiplayer & Zombies local split screen on PC with Nucleus Coop (using Bgamer version)
 
 **Requirements:**
@@ -13,7 +13,7 @@ GUIDE for Call of Duty: Black ops Multiplayer & Zombies local split screen on PC
 
 **Screenshot:**
 
-![Alt image]()
+![Alt image](https://github.com/ahmedtheking372/Call-of-Duty-Black-ops-1-/blob/main/Image1.jpg)
 
 
 
