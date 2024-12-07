@@ -1,4 +1,4 @@
-**GUIDE for Call of Duty Black ops Multiplayer & Zombies local split screen on PC with Nucleus Coop (using Bgamer version)**
+**GUIDE for Call of Duty: Black ops 1 Multiplayer & Zombies local split screen on PC with Nucleus Coop (using Bgamer Lan Tool)**
 
 **Requirements:**
 
