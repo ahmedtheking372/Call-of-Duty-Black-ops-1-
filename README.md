@@ -8,7 +8,7 @@
 
 ● .NET Framework 4.7.2 or Latest [link](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
-● Microsoft Visual C++ 2015-2019 Redistributable (both x86 and x64) [link](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+● Microsoft Visual C++ 2015-2022 Redistributable (both x86 and x64) [link](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
 ● update your DirectX Runtime from [here](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 
