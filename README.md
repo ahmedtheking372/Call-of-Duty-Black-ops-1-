@@ -2,7 +2,7 @@
 
 **Requirements:**
 
-● Call of Duty Black ops Legit Steam Version with all dlc 
+● Call of Duty Black ops Legit Steam Version or any copy of the game with all dlc 
 
 ● Latest version of the Nucleus Coop , you can get it from This [link](https://github.com/SplitScreen-Me/splitscreenme-nucleus/releases) to download the latest version and follow the installation guide.
 
